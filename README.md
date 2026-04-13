@@ -16,7 +16,7 @@
 pip install selenium webdriver-manager
 ```
 
-您需要将本项目下载到本地。如果您熟悉 github 的使用，可以将使用 git clone。如果您不熟悉，也可以直接下载本项目的[压缩包形式](https://github.com/srzer/pumc-autoeval/archive/refs/heads/main.zip)，或者直接下载 autoeval_chrome.py 和 autoeval_firefox.py。
+您需要将本项目下载到本地。如果您熟悉 github 的使用，可以将使用 git clone。如果您不熟悉，也可以直接下载本项目的[压缩包形式](https://github.com/srzer/pumc-autoeval/archive/refs/heads/main.zip)，或者直接复制 [autoeval_chrome.py](https://github.com/srzer/pumc-autoeval/blob/main/autoeval_chrome.py) 和 [autoeval_firefox.py](https://github.com/srzer/pumc-autoeval/blob/main/autoeval_firefox.py)。
 
 ## 常见问题
 > Q1: 使用本脚本会有泄露个人信息的风险吗？
@@ -25,7 +25,7 @@ A1: 脚本本身不会记录密码，但在他人设备上使用脚本登录自�
 
 > Q2: 如何修改脚本的打分策略？
 
-A2: 您可以修改代码中的 SCORE_MIN, SCORE_MAX 的值从而修改打分范围，其他方面的修改需要修改 my_strategy() 函数本社。
+A2: 您可以修改代码中的 SCORE_MIN, SCORE_MAX 的值从而修改打分范围，其他方面的修改需要修改 my_strategy() 函数本身。
 
 > Q3: 由于网络原因使用不了 Chrome Driver 怎么办？
 
