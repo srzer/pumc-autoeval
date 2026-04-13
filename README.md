@@ -16,7 +16,7 @@
 pip install selenium webdriver-manager
 ```
 
-您需要将本项目下载到本地。如果您熟悉 github 的使用，可以将使用 git clone。如果您不熟悉，也可以直接下载本项目的[压缩包形式](https://github.com/srzer/pumc-autoeval/archive/refs/heads/main.zip)，或者直接复制 [autoeval_chrome.py](https://github.com/srzer/pumc-autoeval/blob/main/autoeval_chrome.py) 和 [autoeval_firefox.py](https://github.com/srzer/pumc-autoeval/blob/main/autoeval_firefox.py)。
+您需要将本项目下载到本地。如果您熟悉 github 的使用，可以使用 git clone。如果您不熟悉，也可以直接下载本项目的[压缩包形式](https://github.com/srzer/pumc-autoeval/archive/refs/heads/main.zip)，或者直接复制 [autoeval_chrome.py](https://github.com/srzer/pumc-autoeval/blob/main/autoeval_chrome.py) 和 [autoeval_firefox.py](https://github.com/srzer/pumc-autoeval/blob/main/autoeval_firefox.py)。
 
 ## 常见问题
 > Q1: 使用本脚本会有泄露个人信息的风险吗？
